@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+.primeira{
+    background-color:deeppink;
+    width: 1030px;
+    height: 60px;
+}
+.segunda{
+    background-color: darkgray;
+    width: 1030px;
+    height: 60px;
+}
+.terceira{
+    background-color: crimson;
+    width: 1030px;
+    height: 60px;
+}
